@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),starqltechn)
+ifeq ($(TARGET_DEVICE),crownqlte star2qlte starqlte crownqltechn starqltechn star2qltechn)
 
 endif
